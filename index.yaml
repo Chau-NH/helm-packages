@@ -3,16 +3,16 @@ entries:
   handson:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-09T11:45:54.935776424+07:00"
+    created: "2023-10-11T16:17:02.563370994+07:00"
     dependencies:
     - name: ingress-nginx
       repository: https://kubernetes.github.io/ingress-nginx
       version: 4.6.1
     description: A Helm chart for Kubernetes
-    digest: a6709544e63473b8dc59a9d1565fd503024d27f2ec7af73bf1fa1d219d3944ef
+    digest: cfe2be34bc6a478c4aa0f9fc2505a224df6411075161e22c800de59099e4b1c5
     name: handson
     type: application
     urls:
-    - chau-nh.github.io/handson-0.1.0.tgz
+    - https://chau-nh.github.io/helm-packages/handson-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-09T11:45:54.92374558+07:00"
+generated: "2023-10-11T16:17:02.549820504+07:00"
