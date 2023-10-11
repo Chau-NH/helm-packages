@@ -14,9 +14,9 @@ helm-packages/
 ```
 
 ### Hosting Chart Repository
-- Reference: https://helm.sh/docs/topics/chart_repository/#github-pages-example
+- Reference: https://helm.sh/docs/topics/chart_repository/
 
-### Store charts in your chart repository
+### Store chart in your chart repository
 
 ```sh
 git clone https://github.com/USERNAME/REPOSITORY_NAME.git
